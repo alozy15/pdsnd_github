@@ -43,7 +43,7 @@ def city_input():
                 return 'new york city'
 
             elif city.lower() == 'washington':
-                print('The Capital...so much history, another great choice!')
+                print('The Capital...So much history, another great choice!')
                 print('Let\'s check out Washington\'s bike share characteristics.')
                 print('Give it a sec...after all, patience is a virtue.')
                 return 'washington'
