@@ -14,3 +14,4 @@ new_york_city.csv
 
 ### Credits
 A.J. Lozano -author
+README updated on 11/7/2018 @ 2:39 p.m. PST
