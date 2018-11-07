@@ -5,7 +5,7 @@ Readme file created 11/7/2018.  Bikeshare.py created 10/26/2018.
 Bikeshare Analysis Git Project
 
 ### Description
-The bikeshare project is an analysis of data related to bike sharing in three different cities, Chicago, New York , and Washington.  The data set was analyzed and answered were returned through python programming.
+The bikeshare project is an analysis of data related to bike sharing in three different cities, Chicago, New York, and Washington.  The data set was analyzed using Python.  We created a user friendly program through the use of inputs and definitions. 
 
 ### Files used
 chicago.csv
